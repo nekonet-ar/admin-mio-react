@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/nekonet-ar/ContaNET-Principal-ReactJS/issues"
   },
-  "homepage": "http://172.21.10.25:8080/",
+  "homepage": "https://admin.nekonet.com.ar/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

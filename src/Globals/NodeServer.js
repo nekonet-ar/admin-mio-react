@@ -4,7 +4,7 @@ var host = ""
 if (process.env.NODE_ENV === "development") {
     host = "http://192.168.0.11:3101"
 } else {
-    host = "https://admin.nekonet.com.ar:3100"
+    host = "https://nekonet.com.ar:3100"
 }
 
 const Admin = host + "/Admin"
